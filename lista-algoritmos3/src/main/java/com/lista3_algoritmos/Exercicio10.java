@@ -3,7 +3,7 @@ package com.lista3_algoritmos;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Exercicio010 {
+public class Exercicio10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
 
